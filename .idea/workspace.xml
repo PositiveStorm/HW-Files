@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3338063a-3442-4cf0-863d-de68dc3a356f" name="Changes" comment="">
+    <list default="true" id="3338063a-3442-4cf0-863d-de68dc3a356f" name="Changes" comment="def cook_dict added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -69,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1647952231393</updated>
     </task>
+    <task id="LOCAL-00001" summary="def cook_dict added">
+      <created>1648012566479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648012566479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="def cook_dict added" />
+    <option name="LAST_COMMIT_MESSAGE" value="def cook_dict added" />
   </component>
 </project>
