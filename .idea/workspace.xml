@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3338063a-3442-4cf0-863d-de68dc3a356f" name="Changes" comment="Task #2 ready" />
+    <list default="true" id="3338063a-3442-4cf0-863d-de68dc3a356f" name="Changes" comment="Task #2 ready and edited">
+      <change beforePath="$PROJECT_DIR$/dfgh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erty.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648275493449</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task #2 ready and edited">
+      <created>1648275781507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648275781507</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +115,7 @@
     <MESSAGE value="def cook_dict added" />
     <MESSAGE value="Task #1 ready" />
     <MESSAGE value="Task #2 ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task #2 ready" />
+    <MESSAGE value="Task #2 ready and edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task #2 ready and edited" />
   </component>
 </project>
