@@ -28,3 +28,5 @@ def get_shop_list_by_dishes(dishes, person_count):
 
     print(shop_list)
 get_shop_list_by_dishes(['Фахитос', 'Омлет'], 10)
+
+print('Спасибо за домашку, после нее я просто гуру циклов и логического или :-))))')
